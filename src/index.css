@@ -1,0 +1,67 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  scroll-behavior: smooth;
+  scroll-padding-top: 120px;
+}
+
+html {
+  overflow-y: auto !important;
+}
+
+:root {
+  --grey: #222222;
+  --grey2:rgb(49,49,49);
+  --black: #2C2C2C;
+  --platinum: #EBEBEB;
+  --yellow: #FFAD05;
+  --blue: #4472CA;
+  --black2: #151515;
+  --black3: #2b2b2b;
+  --black4: #313131;
+}
+
+.aos-init, .aos-animate {
+  overflow: hidden !important;
+}
+  
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');    
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--black);
+}
+
+@keyframes navLinkFadeIn {
+  from {
+    width: auto;
+    opacity: 0;
+    transform: translateX(50px);
+  }
+
+  to {
+    width: auto;
+    opacity: 1;
+    transform: translateX(0px);
+  }
+}
+
+@keyframes navLinkFadeOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
