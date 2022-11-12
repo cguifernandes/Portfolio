@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/88489337/201496475-75262d3c-204f-452c-94a4-254900614da8.png" width="850px"/>
-  <h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
+  <h4 align="center"><a href="https://cguifernandes.github.io/Portfolio/">Clique para visitar o projeto</a></h4>
 </div>
 
 ## 💻 Projeto
