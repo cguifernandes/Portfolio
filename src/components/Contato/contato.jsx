@@ -37,7 +37,7 @@ const Contato = () => {
                         </div>
                     </div>
                     <Form action='https://formsubmit.co/gui.adfer@gmail.com' method='POST'>
-                        <input type="hidden" name="_next" value="https://enzosylvestrin.github.io/portifolio/" />
+                        <input type="hidden" name="_next" value="https://cguifernandes.github.io/Portfolio/#contato" />
                         <input type="hidden" name="_autoresponse" value="Recebi sua mensagem, muito obrigado por entrar em contato! Responderei o mais rápido possível..." />
                         <div className='input email'>
                             <input placeholder='' autocomplete="on" type="email" name="email" required></input>
