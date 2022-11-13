@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b6a07f5d.css",
-    "main.js": "/Portfolio/static/js/main.3d0ba6f7.js",
+    "main.js": "/Portfolio/static/js/main.2464d234.js",
     "static/media/wikiDemonSlayer.png": "/Portfolio/static/media/wikiDemonSlayer.4610b7896756be6dfe59.png",
     "static/media/TituloMed.png": "/Portfolio/static/media/TituloMed.7abef8477ea043e65f4b.png",
     "index.html": "/Portfolio/index.html",
     "main.b6a07f5d.css.map": "/Portfolio/static/css/main.b6a07f5d.css.map",
-    "main.3d0ba6f7.js.map": "/Portfolio/static/js/main.3d0ba6f7.js.map"
+    "main.2464d234.js.map": "/Portfolio/static/js/main.2464d234.js.map"
   },
   "entrypoints": [
     "static/css/main.b6a07f5d.css",
-    "static/js/main.3d0ba6f7.js"
+    "static/js/main.2464d234.js"
   ]
 }
